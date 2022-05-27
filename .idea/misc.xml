@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/back_corner.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/drawable/ic_calendar.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/drawable/ic_error.xml" value="0.3472222222222222" />
+        <entry key="app/src/main/res/drawable/ic_favorite.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/drawable/ic_favorite_border.xml" value="0.3109375" />
+        <entry key="app/src/main/res/drawable/ic_filter.xml" value="0.21666666666666667" />
+        <entry key="app/src/main/res/drawable/ic_share.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/drawable/ic_sort.xml" value="0.21666666666666667" />
+        <entry key="app/src/main/res/drawable/shape_bg_title.xml" value="0.21481481481481482" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.19739583333333333" />
+        <entry key="app/src/main/res/layout/dialog_filter_souce.xml" value="0.28020833333333334" />
+        <entry key="app/src/main/res/layout/dialog_sort_news.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/fragment_favorite_articles.xml" value="0.28020833333333334" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/fragment_news_list.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_notification.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/fragment_progressbar.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/fragment_user_details.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/fragment_users.xml" value="0.30648148148148147" />
+        <entry key="app/src/main/res/layout/item_error.xml" value="0.27589743589743587" />
+        <entry key="app/src/main/res/layout/item_news.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/item_progress.xml" value="0.27589743589743587" />
+        <entry key="app/src/main/res/layout/item_source.xml" value="0.28020833333333334" />
+        <entry key="app/src/main/res/layout/item_user.xml" value="0.45" />
+        <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.28020833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="azul-13" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

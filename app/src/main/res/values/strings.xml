@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="error_message">Something went wrong</string>
+    <string name="sort_by_popularity">Sort by popularity</string>
+    <string name="sort_by_publication_date">Sort by publication date</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="error_min_source">You must select at least one source</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorite_articles">Favorite</string>
+    <string name="success_add_to_favorite">Added to Favorite</string>
+
+    <string name="permission">Permission required</string>
+    <string name="permission_explanation">Permission required to save images from the app</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="download_image">Download Image</string>
+    <string name="ask_download_image">Do you want to download this image?</string>
+</resources>
